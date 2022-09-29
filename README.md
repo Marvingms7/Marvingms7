@@ -1,4 +1,4 @@
-## Iaae, tudo bem?! Eu sou o Marcus Vinicius, estudante de tecnologia, gamer e focado em Flutter 😜.
+## Iaae, tudo bem?! Eu sou o Marcus Vinicius, estudante de tecnologia, gamer e apaixonado por Python e Flutter 😜.
 
 <!--
 **Marvingms7/Marvingms7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
