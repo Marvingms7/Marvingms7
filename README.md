@@ -1,4 +1,4 @@
-## Iaae, tudo bem?! Eu sou o Marcus Vinicius, tenho 22 anos, moro em teresina-PI. Sou estudante de tecnologia, gamer e apaixonado por Python e Flutter 😜, aqui você pode conhecer um pouco mais sobre quem eu sou e quais projetos eu tenho.
+## Iaae, tudo bem?! Eu sou o Marcus Vinicius, tenho 22 anos, moro em teresina-PI. Sou estudante de tecnologia, gamer e apaixonado por Python e Flutter 😜, aqui você pode conhecer um pouco mais sobre quem sou e quais projetos eu tenho.
 
 <!--
 **Marvingms7/Marvingms7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
