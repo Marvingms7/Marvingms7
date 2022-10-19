@@ -1,4 +1,4 @@
-## Iaae, tudo bem?! Eu sou o Marcus Vinicius, tenho 22 anos, moro em teresina-PI. Sou estudante de tecnologia, gamer e apaixonado por Python e Flutter, aqui você pode conhecer um pouco mais sobre quem sou e quais projetos eu tenho 😜.
+## Iaae, tudo bem?! Eu sou o Marcus Vinicius, tenho 22 anos, moro em teresina-PI. Sou estudante de tecnologia, gamer e apaixonado por Python e Flutter, aqui você pode conhecer um pouco mais sobre quem sou e quais projetos eu tenho 😜...
 
 <!--
 **Marvingms7/Marvingms7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcus-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Marcus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Marcus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Marcus-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
   
   ##
