@@ -1,4 +1,4 @@
-I'm mobile and web developer :)
+mobile and web developer :)
 www.mvscode.com.br
 
 <!--
